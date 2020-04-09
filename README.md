@@ -1,12 +1,12 @@
 # Find_Address
 Projeto Busca Endereço por CEP
 
-Tecnologias utilizadas.
+<H1>Tecnologias utilizadas.</H1>
 
 -Java.
 -Android API
 
-Bibliotecas:
+<H1>Bibliotecas:</H1>
 
 - Retrofit 2
 - Google GSON.
@@ -21,5 +21,14 @@ app_key
 app_secret
 
 É necessário que você tenha os dois códigos para utilizar na MainActivity.
+
+<H1>Screens</H1>
+
+
+![scr01](https://user-images.githubusercontent.com/30964039/78946970-7da8fb00-7a9a-11ea-860b-57e9477ff09f.png)
+
+
+
+![scr02](https://user-images.githubusercontent.com/30964039/78946969-7c77ce00-7a9a-11ea-8842-3b1e06278db3.png)
 
 
