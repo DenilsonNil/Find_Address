@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buscar Endereço Por Cep</string>
+    <string name="please_wait">Aguarde...</string>
+    <string name="type_your_zipcode">Digite abaixo o CEP</string>
+    <string name="address">Endereço:</string>
+    <string name="city">Cidade:</string>
+    <string name="state">UF:</string>
+    <string name="ibge_code">Código IBGE</string>
+    <string name="neighborhood">Bairro:</string>
+    <string name="show_data">Mostrar Dados</string>
+</resources>
